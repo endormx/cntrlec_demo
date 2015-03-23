@@ -103,5 +103,5 @@ SetEnv SDEEA_DB controlec
 SetEnv SDEEA_USERNAME root
 SetEnv SDEEA_PASSWORD 3nd0rgr0up
 SetEnv SDEEA_HOSTNAME locahost
-SetEnv WEB_SERVICES http://ec2-54-164-47-241.compute-1.amazonaws.com/controlec/backend/web
-SetEnv MOSQUITTO_SERVER ec2-54-173-91-101.compute-1.amazonaws.com
+SetEnv WEB_SERVICES http://ec2-54-164-xx-241.compute-1.amazonaws.com/XXX (Changed for secutiry)
+SetEnv MOSQUITTO_SERVER ec2-54-173-xx-101.compute-1.amazonaws.com (Changed for secutiry)
